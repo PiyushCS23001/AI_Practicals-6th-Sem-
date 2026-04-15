@@ -15,7 +15,7 @@ def solve_cryptarithmetic():
 
         # Convert words to numbers
         send = (mapping['S'] * 1000 +
-                mapping['E'] * 100 +1
+                mapping['E'] * 100 +
                 mapping['N'] * 10 +
                 mapping['D'])
 
